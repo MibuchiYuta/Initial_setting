@@ -20,6 +20,10 @@ timedatectl set-timezone Asia/Tokyo
 ```bash
 LANG=C xdg-user-dirs-gtk-update
 ```
+![image](https://user-images.githubusercontent.com/53966307/127946975-03701b35-c4fc-4f84-af22-c772e4458645.png)
+
+Don't ask me this again を選択し、
+Update Names を押下
 
 ## VMware
 
