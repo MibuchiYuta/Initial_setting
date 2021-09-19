@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"name": "job_hunting",
+			"path": "../../../yuta/job_hunting"
+		},
+		{
+			"name": "Initial_setting",
+			"path": ".."
+		},
+		{
+			"name": "git_memo",
+			"path": "../../../yuta/git_memo"
+		},
+		{
+			"name": "life_memo",
+			"path": "../../../yuta/life_memo"
+		},
+		{
+			"name": "raspbian_memo",
+			"path": "../../../yuta/raspbian_memo"
+		},
+		{
+			"name": "raspi_ubuntu_memo",
+			"path": "../../../yuta/raspi_ubuntu_memo"
+		},
+		{
+			"name": "vim_memo",
+			"path": "../../../yuta/vim_memo"
+		}
+	]
+}
