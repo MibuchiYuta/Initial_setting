@@ -27,6 +27,15 @@
 		{
 			"name": "vim_memo",
 			"path": "../../../yuta/vim_memo"
+		},
+		{
+			"path": "../../../code/kuwano"
+		},
+		{
+			"path": "../../../code/yuta"
+		},
+		{
+			"path": "../../../cit/6s"
 		}
 	]
 }
