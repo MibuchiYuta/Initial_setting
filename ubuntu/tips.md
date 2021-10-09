@@ -9,3 +9,16 @@ $ sudo rm /var/lib/apt/lists/lock
 $ sudo rm /var/lib/dpkg/lock
 $ sudo rm /var/lib/dpkg/lock-frontend
 ```
+## Qt4のインストール
+
+このサイトに従ってやったけどできなかった
+
+https://ubuntuhandbook.org/index.php/2020/07/install-qt4-ubuntu-20-04/
+
+その後以下のコマンドでインスコできた
+
+
+```bash
+sudo apt-get install qt4-dev-tools
+sudo apt-get install qtcreator
+```
