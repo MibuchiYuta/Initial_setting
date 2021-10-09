@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\cit\\6s"
+		},
+		{
+			"path": "..\\..\\..\\code\\cit"
+		},
+		{
+			"path": "..\\..\\..\\code\\citbraibs"
+		},
+		{
+			"path": "..\\..\\..\\code\\yuta"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*Dict": "OpenFOAM",
+			"*Properties": "OpenFOAM",
+			"fvSchemes": "OpenFOAM",
+			"fvSolution": "OpenFOAM",
+			"**/constant/g": "OpenFOAM",
+			"**/0/*": "OpenFOAM",
+			"iosfwd": "cpp"
+		}
+	}
+}
