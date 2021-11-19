@@ -29,13 +29,13 @@
 			"path": "../../../yuta/vim_memo"
 		},
 		{
-			"path": "../../../code/kuwano"
-		},
-		{
 			"path": "../../../code/yuta"
 		},
 		{
 			"path": "../../../cit/6s"
+		},
+		{
+			"path": "../../../code/cit"
 		}
 	]
 }
