@@ -1,41 +1,32 @@
 {
 	"folders": [
 		{
-			"name": "job_hunting",
-			"path": "../../../yuta/job_hunting"
+			"name": "6s",
+			"path": "~/Documents/cit/6s"
 		},
 		{
-			"name": "Initial_setting",
-			"path": ".."
+			"name": "GankenKun_pybullet",
+			"path": "~/code/GankenKun_pybullet"
+		},
+		{
+			"name": "strategy_dev",
+			"path": "~/code/strategy_dev"
+		},
+		{
+			"name": "job_hunting",
+			"path": "~/Documents/cit/job_hunting"
 		},
 		{
 			"name": "git_memo",
-			"path": "../../../yuta/git_memo"
+			"path": "~/Documents/yuta/git_memo"
 		},
 		{
 			"name": "life_memo",
-			"path": "../../../yuta/life_memo"
+			"path": "~/Documents/yuta/life_memo"
 		},
 		{
-			"name": "raspbian_memo",
-			"path": "../../../yuta/raspbian_memo"
-		},
-		{
-			"name": "raspi_ubuntu_memo",
-			"path": "../../../yuta/raspi_ubuntu_memo"
-		},
-		{
-			"name": "vim_memo",
-			"path": "../../../yuta/vim_memo"
-		},
-		{
-			"path": "../../../code/yuta"
-		},
-		{
-			"path": "../../../cit/6s"
-		},
-		{
-			"path": "../../../code/cit"
+			"name": "Initial_setting",
+			"path": "~/Documents/setup/Initial_setting"
 		}
 	]
 }
