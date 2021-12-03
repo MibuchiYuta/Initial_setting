@@ -1,32 +1,16 @@
 {
 	"folders": [
 		{
-			"name": "6s",
-			"path": "~/Documents/cit/6s"
+			"path": "../../../../code"
 		},
 		{
-			"name": "GankenKun_pybullet",
-			"path": "~/code/GankenKun_pybullet"
+			"path": "../../../cit"
 		},
 		{
-			"name": "strategy_dev",
-			"path": "~/code/strategy_dev"
+			"path": "../../../yuta"
 		},
 		{
-			"name": "job_hunting",
-			"path": "~/Documents/cit/job_hunting"
-		},
-		{
-			"name": "git_memo",
-			"path": "~/Documents/yuta/git_memo"
-		},
-		{
-			"name": "life_memo",
-			"path": "~/Documents/yuta/life_memo"
-		},
-		{
-			"name": "Initial_setting",
-			"path": "~/Documents/setup/Initial_setting"
+			"path": ".."
 		}
 	]
 }
