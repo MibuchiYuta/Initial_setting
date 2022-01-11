@@ -15,7 +15,7 @@ $ sudo rm /var/lib/dpkg/lock-frontend
 
 https://ubuntuhandbook.org/index.php/2020/07/install-qt4-ubuntu-20-04/
 
-その後以下のコマンドでインスコできた
+その後以下のコマンドでインストールできた
 
 
 ```bash
