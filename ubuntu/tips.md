@@ -6,11 +6,11 @@
 
 ```bash
 sudo rm /var/lib/apt/lists/lock
-```bash
 ```
+```bash
 sudo rm /var/lib/dpkg/lock
-```bash
 ```
+```bash
 sudo rm /var/lib/dpkg/lock-frontend
 ```
 ## Qt4のインストール
@@ -24,7 +24,7 @@ https://ubuntuhandbook.org/index.php/2020/07/install-qt4-ubuntu-20-04/
 
 ```bash
 sudo apt-get install qt4-dev-tools
-```bash
 ```
+```bash
 sudo apt-get install qtcreator
 ```
